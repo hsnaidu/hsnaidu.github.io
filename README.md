@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/hariprasads6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/hsnaidu"><img src="https://img.shields.io/badge/-github-#181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/hsnaidu"><img src="https://img.shields.io/badge/Github-text-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
