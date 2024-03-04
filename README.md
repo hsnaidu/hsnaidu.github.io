@@ -14,7 +14,9 @@
 #### ASSISTED FACULTY & SENIOR RESEARCHERS IN RESEARCH PROJECT'S 
 #### Handled Task's such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
 
-# Skills
-####
+# Skills associated with projects
+|------------------|---------------------------------------------------------------|
+| ML Algorithms | Linear regression, Logistic Regression, DecisionTree, Random Forest, K-Means & K-Medoids, Clustering, DBSCAN, Association Rules, Support Vector Machine, Statistics and Probability Techniques. | 
+
 
 
