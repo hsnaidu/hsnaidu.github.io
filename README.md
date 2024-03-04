@@ -10,8 +10,9 @@
 ##### He has completed his Bachelors degree in Computer Applications from *[Ramaiah College of Arts,Science & Commerce]("#")*. 🎓
 
 # Experience
-#### Junior Research Assistant @ Reva University
-#### Assisted Faculty & Senior researchers in various tasks related to their research projects. Such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
+### Junior Research Assistant @ Reva University
+#### Assisted Faculty & Senior researchers in various tasks related to their research projects. 
+#### Such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
 
 # Skills
 ####
