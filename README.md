@@ -23,13 +23,13 @@ Handled Task's such as Data Cleaning and Analysing the trends in data, Performin
 ## TOOLS & OTHERS
 ##### GitHub, Canva, Microsoftoffice, VsCode
 
-## PROJECTS UNDERTAKEN 
-- REALTIME ANALYSIS AND SECURING EHR DATA USING BLOCKCHAIN **RESEARCH**  
+## PROJECTS UNDERTAKEN (R - RESEARCH, W - WORKING)
+- REALTIME ANALYSIS AND SECURING EHR DATA USING BLOCKCHAIN **R/W**  
 - EDA ON TIME SPENT ON SPOTIFY MUSIC BASED ON DIFFERENT GENRE
-- OPTIMISING CROP YIELD THROUGH MACHINE LEARNING ALGORITHM 
+- OPTIMISING CROP YIELD THROUGH MACHINE LEARNING ALGORITHM **W**
 - SUPERMARKET DASHBOARD
 
-## You can also reach me out on 
+## You can also find me on
 <a href="https://github.com/hsnaidu"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://medium.com/@_hariprasad"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://share.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
