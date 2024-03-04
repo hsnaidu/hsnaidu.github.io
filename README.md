@@ -13,12 +13,12 @@
 Handled Task's such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
 
 ## Skills 
-##### PROGRAMMING LANGUAGE : Python, R, Javascript
-##### DATA ANALYSIS : Data-Preprocessing, Data Mining, Data Wrangling, Model Building, Cross Validation.
-##### MACHINE LEARNING ALGORITHMS : Linear regression, Logistic Regression, DecisionTree, Random Forest, K-Means & K-Medoids, Clustering, DBSCAN, Association Rules, Support Vector Machine, Statistics and Probability Techniques.
-##### LIBRARIES : Numpy, Pandas, Scikit-learn, Tensorflow, Streamlit, Seaborn, Matplotlib
-##### BI TOOLS : Tableau, Excel, Power BI
-##### DATABASE : MySQL, MongoDB
+##### <u>PROGRAMMING LANGUAGE</u> : Python, R, Javascript
+##### <u>DATA ANALYSIS</u> : Data-Preprocessing, Data Mining, Data Wrangling, Model Building, Cross Validation.
+##### <u>MACHINE LEARNING ALGORITHMS</u> : Linear regression, Logistic Regression, DecisionTree, Random Forest, K-Means & K-Medoids, Clustering, DBSCAN, Association Rules, Support Vector Machine, Statistics and Probability Techniques.
+##### <u>LIBRARIES</u> : Numpy, Pandas, Scikit-learn, Tensorflow, Streamlit, Seaborn, Matplotlib
+##### <u>BI TOOLS</u> : Tableau, Excel, Power BI
+##### <u>DATABASE</u> : MySQL, MongoDB
 
 ## TOOLS & OTHERS
 ##### GitHub, Canva, Microsoftoffice, VsCode
