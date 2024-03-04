@@ -5,9 +5,9 @@
 <a href="https://share.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 
 # Hey there 👋
-#### This is a personal portfolio-page of HARI PRASAD. 🧑‍💻
-##### 🎓 He is currently pursuing his Masters degree in DataScience **REVA UNIVERSITY**. 
-##### 🎓 He has completed his Bachelors degree in Computer Applications from **Ramaiah College of Arts,Science & Commerce**. 
+#### This is a personal portfolio of HARI PRASAD. 🧑‍💻
+##### 🎓 He is currently pursuing his <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
+##### 🎓 He has completed his <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
 
 # Experience
 ### Junior Research Assistant @ Reva University
