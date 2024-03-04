@@ -7,7 +7,7 @@
 <a href="https://drive.google.com/file/d/19cT1z6nWXV-T-AUWAu41iIJF9aBfhALL/view?usp=sharing/"><img src="https://img.shields.io/badge/-My CV-FFCC22?&style=for-the-badge&logo=docusign&logoColor=black" /></a>
 
 
-#### 🎓 Currently pursuing his <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
+#### 🎓 Currently pursuing my <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
 #### 🎓 I hold a <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
 
 ## Experience
