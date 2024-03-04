@@ -21,7 +21,7 @@ Handled Task's such as Data Cleaning and Analysing the trends in data, Performin
 ##### DATABASE : MySQL, MongoDB
 
 ## TOOLS & OTHERS
-GitHub, Canva, Microsoftoffice, VsCode
+##### GitHub, Canva, Microsoftoffice, VsCode
 
 ## PROJECTS UNDERTAKEN 
 - 
