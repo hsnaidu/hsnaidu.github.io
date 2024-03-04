@@ -1,9 +1,9 @@
 #### Data Scientist | AI & ML Enthusiast
-<a href="https://www.linkedin.com/in/hariprasads6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 # Hey there 👋
+
 #### This is a personal portfolio of HARI PRASAD. 🧑‍💻
+<a href="https://www.linkedin.com/in/hariprasads6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ##### 🎓 He is currently pursuing his <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
 ##### 🎓 He holds a <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
 
