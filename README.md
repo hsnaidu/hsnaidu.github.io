@@ -6,8 +6,8 @@
 
 # Hey there 👋
 #### This is a personal portfolio-page of HARI PRASAD. 🧑‍💻
-##### He is currently pursuing his Masters degree in DataScience *[Reva University]("#")*. 🎓
-##### He has completed his Bachelors degree in Computer Applications from *[Ramaiah College of Arts,Science & Commerce]("#")*. 🎓
+##### 🎓 He is currently pursuing his Masters degree in DataScience **REVA UNIVERSITY**. 
+##### 🎓 He has completed his Bachelors degree in Computer Applications from **Ramaiah College of Arts,Science & Commerce**. 
 
 # Experience
 ### Junior Research Assistant @ Reva University
