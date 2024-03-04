@@ -7,12 +7,12 @@
 # Hey there 👋
 #### This is a personal portfolio of HARI PRASAD. 🧑‍💻
 ##### 🎓 He is currently pursuing his <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
-##### 🎓 He has completed his <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
+##### 🎓 He holds a <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
 
 # Experience
-### Junior Research Assistant @ Reva University
-#### Assisted Faculty & Senior researchers in various tasks related to their research projects. 
-#### Such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
+### **Junior Research Assistant @ Reva University**
+#### ASSISTED FACULTY & SENIOR RESEARCHERS IN RESEARCH PROJECT'S 
+#### Handled Task's such as Data Cleaning and Analysing the trends in data, Performing EDA (Exploratory Data Analysis) and Building and Deploying Suitable Machine Learning Model.
 
 # Skills
 ####
