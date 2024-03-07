@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/hariprasads6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1Lx_LGfYuEaePtN8Y-sqGqVbwP6WDDcKD/view?usp=sharing/"><img src="https://img.shields.io/badge/-My Resume-FFCC22?&style=for-the-badge&logo=docusign&logoColor=black" /></a>
 <a href="https://drive.google.com/file/d/19cT1z6nWXV-T-AUWAu41iIJF9aBfhALL/view?usp=sharing/"><img src="https://img.shields.io/badge/-My CV-FFCC22?&style=for-the-badge&logo=docusign&logoColor=black" /></a>
-<a href="https://github.com/hsnaidu?tab=repositories/"><img src="https://img.shields.io/badge/-My Projects-000000?&style=for-the-badge&logo=nounproject&logoColor=black" /></a>
+<a href="https://github.com/hsnaidu?tab=repositories/"><img src="https://img.shields.io/badge/-My Projects-000000?&style=for-the-badge&logo=nounproject&logoColor=yellow" /></a>
 
 #### 🎓 Currently pursuing my <u>Masters degree in DataScience</u> at **REVA UNIVERSITY (PG)**. 
 #### 🎓 I hold a <u>Bachelors degree in Computer Applications</u> from **Ramaiah College of Arts,Science & Commerce (UG)**. 
